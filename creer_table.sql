@@ -1,4 +1,4 @@
-CONNECT cocadmin;
+CONNECT abadi;
 
 DROP TABLE IF EXISTS `todo`;
 

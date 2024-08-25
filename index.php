@@ -14,9 +14,9 @@
    limitations under the License.
 -->
 <?php
-define('DB_USER', 'cocadmin');
+define('DB_USER', 'abadi');
 define('DB_PASS', '1234');
-define('DB_NAME', 'cocadmin');
+define('DB_NAME', 'abadi');
 define('DB_HOST', 'ansible_db_1');
 
 
