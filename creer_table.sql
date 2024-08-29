@@ -1,4 +1,4 @@
-CONNECT abadi;
+CONNECT todo;
 
 DROP TABLE IF EXISTS `todo`;
 
