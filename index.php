@@ -17,7 +17,7 @@
 define('DB_USER', 'abadi');
 define('DB_PASS', '1234');
 define('DB_NAME', 'abadi');
-define('DB_HOST', 'ansible_db_1');
+define('DB_HOST', '172.20.0.60');
 
 
 $dsn="mysql:dbname=".DB_NAME.";host=".DB_HOST;
