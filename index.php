@@ -14,7 +14,7 @@
    limitations under the License.
 -->
 <?php
-define('DB_USER', 'abadi');
+define('DB_USER', 'toto');
 define('DB_PASS', '1234');
 define('DB_NAME', 'todo');
 define('DB_HOST', '172.20.0.60');
